@@ -1,7 +1,7 @@
 
 ;; title: Friend.Tech Clone
 ;; version: 1.0
-;; description: Friends.Tech Clone with fee managemnt, access control, get buy, get sell, set percent & more! 
+;; description: Friends.Tech Clone with fee management, access control, get buy, get sell, set percent & more! 
 
 
 (define-map keysBalance { subject: principal, holder: principal } uint)
